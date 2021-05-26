@@ -1,5 +1,18 @@
 ### Hi there 👋
+This is a page to share what I've learned.🙌 
+📚 Langues and Frameworks
+HTML5
+CSS3
+Bootstrap
+JavaScript
+Express.js
 
+🔧 Tool
+Version Control(Git)
+
+💡 Projects
+My-User-List
+My-Movie-List
 <!--
 **learnpytest/learnpytest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
