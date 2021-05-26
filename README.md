@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is a page to share what I've learned.🙌 
+
 📚 Langues and Frameworks
+
 HTML5
 CSS3
 Bootstrap
