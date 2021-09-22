@@ -18,25 +18,19 @@ This is a page to share what I've learned.🙌
 
 📚 Langues and Frameworks
 
-HTML5
+- JavaScript、HTML5、CSS3、SASS
 
-CSS3
-
-Bootstrap
-
-JavaScript
-
-Express.js
+- Express.js、Vue.js、Bootstrap
 
 
 🔧 Tool
 
-Version Control(Git)
+Version Control(Git)、Node.js、Webpack、Firebase、Heroku
 
 
 💡 Projects
 
-My-User-List
+-User-List
 
-My-Movie-List
+-Movie-List
 
